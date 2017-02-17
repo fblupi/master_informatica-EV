@@ -6,4 +6,4 @@ Repositorio de la asignatura Entornos Virtuales del Máster de Ingeniería Infor
 
 ### Prácticas
 
-* [Práctica 1: Modelado con Blender](P1/)
+* [Práctica 1: Modelado con Blender](P1)
