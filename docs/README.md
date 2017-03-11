@@ -7,6 +7,7 @@ Repositorio de la asignatura Entornos Virtuales del Máster de Ingeniería Infor
 ### Teoría
 
 * [Tema 1: Introducción](T1)
+* [Tema 2: Modelado geométrico para entornos virtuales](T2)
 
 ### Prácticas
 
