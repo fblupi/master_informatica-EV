@@ -18,3 +18,4 @@ Repositorio de la asignatura Entornos Virtuales del Máster de Ingeniería Infor
 * [Práctica 3: Texturas](P3)
 * [Práctica 4: Interacción](P4)
 * [Práctica 5: Simulación](P5)
+* [Práctica 6: Proyecto](P6)
